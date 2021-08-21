@@ -5,10 +5,10 @@
 - ディレクトリ構成
 ```
 .
-├── east_blue
+├── 01_east_blue
 │   ├── quiz.md
 │   └── answer.md
-├── alabasta
+├── 02_alabasta
 │   ├── quiz.md
 │   └── answer.md
 .
