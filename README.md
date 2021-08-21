@@ -5,14 +5,17 @@
 - ディレクトリ構成
 ```
 .
-├── quiz
-│   ├── east_blue
-│   └── Alabasta
-├── answer
-│   ├── east_blue
-│   └── Alabasta
+├── east_blue
+│   ├── quiz.md
+│   └── answer.md
+├── alabasta
+│   ├── quiz.md
+│   └── answer.md
+.
+.
+.
 ```
 
 - 使い方
-    - quizディレクトリとanswerディレクトリのNo.が対応しているので、それで答えを確認する。
+    - 各ストーリーディレクトリ(east_blueなど)のquiz.mdとanswer.mdのNo.が対応しているので、それで答えを確認する。
     - 気が向いたら、GitHubにプルリクエストした時に自動採点するシステム入れる。気が向いたら。
